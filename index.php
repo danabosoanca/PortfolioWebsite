@@ -77,7 +77,7 @@ applications and sites for various projects. </p>
             <p>I'm an ambitious person,
 motivated, who strives to do things well and in a timely manner.</p>
         </div>
-        <img src="images/20210331_162343.jpg" alt="cuvinte" class="about-me__img">
+        <img src="images/var2.jpg" alt="cuvinte" class="about-me__img">
     
     </section>
 
@@ -261,8 +261,8 @@ motivated, who strives to do things well and in a timely manner.</p>
 
     <!--Footer-->
     <footer class="footer">
-        <h3>Bosoanca Maria-Daniela</h3>
-        <h3>Facultatea de Automatica si Calculatoare, UPT</h3>
+        <h3>Bosoancă Maria-Daniela</h3>
+        <h3>Facultatea de Automatică și Calculatoare, UPT</h3>
         <h4>dana.bosoanca99@gmail.com</h4>
         </a>
         <ul class="social-list">
